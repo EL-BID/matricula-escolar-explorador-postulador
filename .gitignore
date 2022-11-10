@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Line profiler test results
+lp_tests/
+
+# Test data inputs
+inputs/
